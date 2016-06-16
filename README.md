@@ -1,6 +1,6 @@
 # Adventurous Syntax theme
 
-A dark Atom theme using common colours often seen in the cult series **Adventure Time**.
+A dark Atom/Sublime Text theme using common colours often seen in the cult series **Adventure Time**.
 
 ![Adventure Time!](http://img1.wikia.nocookie.net/__cb20120811190505/adventuretimewithfinnandjake/images/2/24/Ci_banner_2k12mar20_adventuretime.jpeg)
 
